@@ -90,7 +90,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 Balanced Accuracy Score:
 
-Overall: 0.95.
+Overall: 0.95:
 
 A balanced accuracy score of 0.95 indicates strong overall performance in correctly classifying instances from both classes
 
