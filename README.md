@@ -50,8 +50,11 @@ The analysis financial data, include information about loan_size,interest_rate,b
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
 
 E.G. (Value Counts) 
+
 0    75036
+
 1     2500
+
 Name: loan_status, dtype: int64
 
 Indicating two classes: 0 and 1.
