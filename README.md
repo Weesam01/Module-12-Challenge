@@ -43,6 +43,7 @@ In this section, describe the analysis you completed for the machine learning mo
  The goal of the analysis is to build a model that can identify the creditworthiness of borrowers.
 
 * Explain what financial information the data was on, and what you needed to predict.
+
 The analysis financial data, include information about loan_size,interest_rate,borrower_income,debt_to_income,num_of_accounts,	derogatory_marks,total_debt. We are trying to predict a certain outcome based on the available financial data. In this case, we are looking to predict whether a loan is healthy or high-risk.
 
 
