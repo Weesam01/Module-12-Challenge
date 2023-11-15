@@ -67,7 +67,9 @@ The dataset seems imbalanced, with a significantly larger number belonging to cl
 * Describe the stages of the machine learning process you went through as part of this analysis.
 
 Data Collection: Gathering financial data that includes both features and the target variable.
+
 Data Splitting: Splitting the dataset into training and testing sets.
+
 Model Selection: In this case we used Logistic Regression and Resampling.
 
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
