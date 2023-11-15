@@ -104,7 +104,7 @@ Precision and Recall Scores: Class 1 (Risky Loan)
 Precision: 0.85 (85%) When Model 1 predicts a high-risk loan, it is correct 85% of the time.
 
 Recall: 0.91 (91%)  Model 1 correctly identifies 91% of the actual high-risk loans.
-(-------------------------------------------------------------------------------------------------------------------------------)
+(------------------------------------------------------------------)
 Overall Metrics (avg / total) for both classes.
 
 Precision: 0.99 (99%)
