@@ -87,18 +87,28 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
   * Description of Model 1 Accuracy, Precision, and Recall scores.
 
 Balanced Accuracy Score:
-Overall: 0.95 A balanced accuracy score of 0.95 indicates strong overall performance in correctly classifying instances from both classes
+
+Overall: 0.95.
+
+A balanced accuracy score of 0.95 indicates strong overall performance in correctly classifying instances from both classes
+
 
 Precision and Recall Scores: Class 0 (Healthy Loan)
+
 Precision: 1.00 (100%) Model 1 correctly predicts 100% of all healthy loans.
+
 Recall: 0.99 (99%) Model 1 identifies 99% of the actual healthy loans.
 
 Precision and Recall Scores: Class 1 (Risky Loan)
+
 Precision: 0.85 (85%) When Model 1 predicts a high-risk loan, it is correct 85% of the time.
+
 Recall: 0.91 (91%)  Model 1 correctly identifies 91% of the actual high-risk loans.
 
 Overall Metrics (avg / total) for both classes.
+
 Precision: 0.99 (99%)
+
 Recall: 0.99 (99%)
 
 
@@ -106,19 +116,28 @@ Recall: 0.99 (99%)
   * Description of Model 2 Accuracy, Precision, and Recall scores.
 
 Balanced Accuracy Score:
-Overall: 0.99 A balanced accuracy score of 0.99 indicates strong overall performance in correctly classifying instances from both classes
+
+Overall: 0.99
+
+A balanced accuracy score of 0.99 indicates strong overall performance in correctly classifying instances from both classes
 
 Precision and Recall Scores: Class 0 (Healthy Loan)
+
 Precision: 1.00 (100%) Model 2 correctly predicts 100% of all healthy loans.
+
 Recall: 0.99 (99%) Model 2 identifies 99% of the actual healthy loans.
 
 Precision and Recall Scores: Class 1 (Risky Loan)
+
 Precision: 0.84 (84%) When Model 2 predicts a high-risk loan, it is correct 84% of the time.
+
 Recall: 0.99 (99%) Model 2 correctly identifies 99% of the actual high-risk loans.
 
 
 Overall Metrics (avg / total) for both classes.
+
 Precision: 0.99 (99%)
+
 Recall: 0.99 (99%)
 
 ## Summary
