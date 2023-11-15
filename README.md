@@ -92,7 +92,7 @@ Overall: 0.95.
 
 A balanced accuracy score of 0.95 indicates strong overall performance in correctly classifying instances from both classes
 
-
+-------------------------------------------------------------------------------------------------------------------------------
 Precision and Recall Scores: Class 0 (Healthy Loan)
 
 Precision: 1.00 (100%) Model 1 correctly predicts 100% of all healthy loans.
