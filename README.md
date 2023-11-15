@@ -173,6 +173,7 @@ Based on the balanced accuracy score and the recall for Class 1, Model 2 appears
  In this scenarios where the positive class (1) represents such as fraud detection, accurately identifying and predicting the positive class is essential to prevent consequences associated with false negatives. Conversely, where the negative class (0) represents the majority class, correctly identifying and predicting the negative class is crucial to avoid unnecessary disruptions, even if it means tolerating some false positives. 
 
 * Recommendation of the models please justify your reasoning.
+
 Both models demonstrate strong overall performance, with high balanced accuracy scores, precision, and recall for the positive class (1). However, Model 2 displays a slightly higher balanced accuracy and superior recall for the positive class, indicating better performance in identifying high-risk loans. Therefore, I recommend using Model 2 for predicting loan status.
 
 
