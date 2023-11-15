@@ -70,11 +70,12 @@ Data Collection: Gathering financial data that includes both features and the ta
 
 Data Splitting: Splitting the dataset into training and testing sets.
 
-Model Selection: In this case we used Logistic Regression and Resampling.
+Model Selection: In this case, the models we used are Logistic Regression and Resampling.
 
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
 
 LogisticRegression: Used for multiclass classification tasks.It models the probability of a certain class and is often interpretable.
+
 Resampling: Used to address class imbalance issues, ensuring the model is not biased towards the majority class.
 
 
