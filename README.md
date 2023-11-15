@@ -160,7 +160,7 @@ Summarize the results of the machine learning models, and include a recommendati
 
 * Which one seems to perform best? How do you know it performs best?
 
- Model 2 has a higher balanced accuracy score (0.99) compared to Model 1 (0.95). Higher balanced accuracy generally indicates better overall performance.
+ Model 2 has a higher balanced accuracy score (0.99) compared to Model 1 (0.95). Higher balanced accuracy indicates better performance.
 
 Precision and Recall (Class 1): Model 2 has a higher recall for Class 1 (high-risk loan) compared to Model 1 (0.99 vs. 0.91). However, Model 1 has a slightly higher precision for Class 1 (0.85 vs. 0.84).
 
