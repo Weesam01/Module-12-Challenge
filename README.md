@@ -74,7 +74,7 @@ Model Selection: In this case, the models we used are Logistic Regression and Re
 
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
 
-LogisticRegression: Used for multiclass classification tasks.It models the probability of a certain class and is often interpretable.
+LogisticRegression: Used for multiclass classification tasks.It models the probability of a certain class.
 
 Resampling: Used to address class imbalance issues, ensuring the model is not biased towards the majority class.
 
