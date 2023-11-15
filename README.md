@@ -16,6 +16,7 @@ Calculate the accuracy score of the model.
 Generate a confusion matrix.
 
 Print the classification report.
+
 Lastly answer the following question: How well does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels?
 
 # Part 3 Predict a Logistic Regression Model with Resampled Training Data
@@ -28,6 +29,8 @@ Calculate the accuracy score of the model.
 Generate a confusion matrix.
 
 Print the classification report.
+
+Lastly answer the following question: How well does the logistic regression model, fit with oversampled data, predict both the 0 (healthy loan) and 1 (high-risk loan) labels?
 
 # Part 4  Credit Risk Analysis Report
 
