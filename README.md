@@ -87,6 +87,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
   * Description of Model 1 Accuracy, Precision, and Recall scores.
   
 (----------------------------------------------------------------)
+
 Balanced Accuracy Score:
 
 Overall: 0.95.
